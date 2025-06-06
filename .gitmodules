@@ -1,3 +1,6 @@
 [submodule "dust3r"]
 	path = dust3r
 	url = https://github.com/VSLAM-LAB/dust3r.git
+[submodule "asmk"]
+	path = asmk
+	url = https://github.com/VSLAM-LAB/asmk.git
